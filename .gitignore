@@ -1,3 +1,4 @@
-/backend/package-lock.json
-/backend/node_moduels
-/history
+# Ignore backend dependencies
+backend/node_modules/
+backend/package-lock.json
+.history/
